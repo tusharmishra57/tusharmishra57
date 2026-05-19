@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Tushar Mishra</h1>
+<h1 align="center">Hello, I'm Tushar Mishra</h1>
 <h3 align="center">Final Year Engineering Student | Full Stack Developer | System Design Enthusiast</h3>
 
 <p align="center">
@@ -35,16 +35,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js,ts,express,html,css,git,github,cpp,java" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharmishra57&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharmishra57&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -70,18 +61,11 @@
 
 ---
 
-## 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/tusharmishra_developer?theme=dark&font=baloo&ext=contest" />
-</p>
 
 ---
 
-## ⚡ Fun Fact
-> I love building scalable apps and solving complex DSA problems 🚀
 
----
 
 ## 🤝 Let's Connect
 
