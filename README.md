@@ -9,13 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tusharmishra-developer">
     <img src="https://img.shields.io/badge/LinkedIn-Tushar%20Mishra-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://leetcode.com/u/tusharmishra_developer/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/tusharmishrmjyv">
-    <img src="https://img.shields.io/badge/GFG-Profile-darkgreen?style=for-the-badge&logo=geeksforgeeks">
-  </a>
+
 </p>
 
 ---
