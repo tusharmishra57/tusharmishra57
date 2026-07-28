@@ -16,8 +16,8 @@
 
 ## 💡 About Me
 - 🎓 Final Year @ **BML Munjal University**
-- 💻 Full Stack Developer (MERN)
-- ⚡ Strong in **Problem Solving & System Design**
+- 💻 Full Stack Developer
+- ⚡ Strong in **Backend & System Design**
 - 🧠 Focused on **Scalable Systems & Clean Architecture**
 - 📫 Reach me at: **tusharmishra.developer@gmail.com**
 
@@ -30,22 +30,6 @@
 </p>
 
 
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=tusharmishra57&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tusharmishra57&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## 📈 Contribution Graph
 
