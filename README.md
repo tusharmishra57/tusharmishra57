@@ -16,7 +16,7 @@
 - ⚡ Strong in **Backend & System Design**
 - 🧠 Focused on **Scalable Systems & Clean Architecture**
 - 📫 Reach me at: **tusharmishra.developer@gmail.com**
-- 📫 Portfolio: **https://porfolio-tusharmishra.vercel.app/**
+- 📫 Portfolio: **https://portfolio-tusharmishra.vercel.app/**
 
 ---
 
